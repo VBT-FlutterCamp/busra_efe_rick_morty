@@ -1,16 +1,5 @@
 # rick_and_morty
 
-A new Flutter project.
+![rickmorty](https://user-images.githubusercontent.com/58303242/157495946-35eb9ad3-9720-416e-b2ed-824b4d711eee.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
